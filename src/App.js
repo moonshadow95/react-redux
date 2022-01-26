@@ -1,5 +1,5 @@
 import AddNumberRoot from "./components/AddNumberRoot";
-import DisplayNumberRoot from "./components/displayNumberRoot";
+import DisplayNumberRoot from "./components/DisplayNumberRoot";
 import {useState} from "react";
 
 function App() {
